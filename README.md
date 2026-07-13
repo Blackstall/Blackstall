@@ -21,12 +21,9 @@
 
 ### ⚔️ What I'm building
 
-<a href="https://github.com/Blackstall/Tadpools">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blackstall&repo=Tadpools&theme=radical&bg_color=0D1117&border_color=30363D" />
-</a>
-<a href="https://github.com/Blackstall/PersonalSwap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blackstall&repo=PersonalSwap&theme=radical&bg_color=0D1117&border_color=30363D" />
-</a>
+<a href="https://github.com/Blackstall/Tadpools"><img src="https://img.shields.io/badge/🐸_Tadpools-multi--agent_fraud_detection-EF4444?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://blackstall.github.io/Tadpools/"><img src="https://img.shields.io/badge/🌊_Live_demo-watch_the_swarm-14B8A6?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://github.com/Blackstall/PersonalSwap"><img src="https://img.shields.io/badge/⛓️_PersonalSwap-crypto_swap_on_Polygon-8B5CF6?style=for-the-badge&labelColor=0D1117" /></a>
 
 🐸 **[Tadpools](https://github.com/Blackstall/Tadpools)** — local-first, explainable multi-agent fraud detection & KYC investigation.
 Ten AI agents that analyse, debate and decide — fully offline with Ollama.
