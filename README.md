@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1200&color=EF4444&center=true&vCenter=true&width=520&lines=Farris+Nasarudin;I+just+build.;TypeScript+%C2%B7+AI+agents+%C2%B7+Web3" alt="I just build." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=1200&color=EF4444&center=true&vCenter=true&width=520&lines=Farris+Nasarudin;I+just+build.;Building+open+finance+infrastructure;AI+agents+%C2%B7+RegTech+%C2%B7+Web3" alt="I just build." />
 
 <br/>
 
@@ -14,6 +14,10 @@
 <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=white" />
 
 </div>
+
+<br/>
+
+<div align="center"><em>Mission: open-source tools for the money world — fraud detection, compliance, payments, DeFi.<br/>Finance runs on trust. I build the software that verifies it.</em></div>
 
 ---
 
