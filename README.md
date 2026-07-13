@@ -35,10 +35,8 @@ Ten AI agents that analyse, debate and decide — fully offline with Ollama.
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blackstall&theme=radical" width="92%" />
-
-<img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blackstall&theme=radical" />
-<img height="170" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Blackstall&theme=radical" />
+<img src="https://img.shields.io/github/followers/Blackstall?style=for-the-badge&logo=github&color=EF4444&labelColor=0D1117&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/Blackstall?style=for-the-badge&logo=github&color=F59E0B&labelColor=0D1117&label=STARS&affiliations=OWNER" />
 
 <img src="https://streak-stats.demolab.com?user=Blackstall&theme=radical&background=0D1117&border=30363D" />
 
